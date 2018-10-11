@@ -82,3 +82,143 @@ That would be 5000 nachos…
 –	consciousnewsmedia.blogspot.com/2013/11/the-artificial-womb-is-born-and-world.html#.UnzjYZTwJRR 
 
 https://itunes.apple.com/pl/story/id1315172322
+
+Make a Physical Mask game, kind of a local terrain game, LARP
+Jailbreak Kindle Voyage
+
+**Marketing & Promotion Masterlist**
+
+Twitter Accounts for Spreading The Love 
+@ indiegamelover
+
+Facebook Groups
+www.facebook.com/groups/PCMR1/
+www.facebook.com/groups/1909526625989636/
+www.facebook.com/groups/polskigamedev/
+www.facebook.com/groups/GloriousMasterRace/
+www.facebook.com/groups/1501704946752460/
+www.facebook.com/groups/160823980636156/
+www.facebook.com/groups/1435669336648312/pending/
+www.facebook.com/groups/Indiegamepromotions/
+www.facebook.com/groups/156412141097759/
+www.facebook.com/groups/1233959583370671/
+www.facebook.com/groups/411933502350087/
+www.facebook.com/groups/indiedevhangout/
+www.facebook.com/groups/1686070951458114/
+www.facebook.com/groups/retrogamedev/
+www.facebook.com/groups/107240076623619/
+www.facebook.com/groups/retrogamedesigners/
+www.facebook.com/groups/IndieGamePromo/
+www.facebook.com/groups/1850646748512610/
+www.facebook.com/groups/1117140031653469/
+www.facebook.com/groups/retroindiegamedevelopers/
+www.facebook.com/groups/ThePCGamingMasterRace/about/
+www.facebook.com/groups/446468122120405/
+www.facebook.com/groups/retroindiegamedevelopers/
+www.facebook.com/groups/446468122120405/
+www.facebook.com/groups/1452309941730568/
+
+Kickstarter FB Groups
+www.facebook.com/groups/CrowdfundingBackers1/
+www.facebook.com/groups/crowdfundingpromotion/
+www.facebook.com/groups/kickstartergames/
+www.facebook.com/groups/500801633422847/
+www.facebook.com/groups/ILoveKickstarter/
+www.facebook.com/groups/863054980482454/
+
+Discord Channels
+
+x
+x
+x
+
+YouTubers + Twitchers Google Docs Spreadsheet (1y-0…xFc)
+
+Press + Forums Google Docs Document (1NZh…9gM)
+
+
+–	backerdatabase.com/pricing/
+–	www.krowdster.co/pricing
+–	thegadgetflow.com
+add Dragwa Spreading List
+
+**Start pushing Humble Partner**
+
+Schedule tweets, FB posts and Discord announcements.
+–	Humble Bundles (whenever one hits, at least 3 reminders: launch, middle, running out)
+–	Humble Monthly (5 times a month)
+
+**Create a Patreon for 3D Printed Character Every Month**
+
+Obsidian 3D Printer/Deluxe (625.73PLN)/(1181.11PLN)
+Polysher (350 EUR)
+PolySmooth™ Jet Black 1.75mm (45 EUR)
+PolySmooth™ Snow White 1.75mm (45 EUR)
+PolySmooth™ Polymaker Teal 1.75mm (45 EUR)
+PolySmooth™ Transparent 1.75mm (45 EUR)
+print at 210C or less extrusion temp, and I found 205C on my machine to give the best results
+20-40 minutes, usually 25 minutes with 90% alcohol or higher.
+I'm printing around 190 for 55mm/sec print speeds and that produces great results without micro-bubbles or angel-hair.
+www.instructables.com/id/3D-Printed-Designer-Art-Toys/
+Thingiverse
+3d print
+sanding
+polysher 25 min
+
+**Figure out Yates Debt**
+
+970/1500GBP
+Send a bill of sale from me to Paul Stuart Lewis Yates. 
+ProLine + Monitors.
+Intel Core i7-5820K 3,3 GHz s.2011 Box (bez chlodzenia) 
+Fractal Design Define S USB 3.0 Black (FD-CA-DEF-S-BK) 
+MSI GF GTX 970 4GB DDR5 256bit PCI-e GAMING 
+Microsoft Windows 10 Home OEM 64-bit PL 1-pack 
+2 x Noctua NF-S12A PWM 120mm 1200rpm 
+Noctua NH-D15 
+Seasonic X-Series X-750 KM3 (SS-750KM F3) 80Plus Gold 750W 
+Seagate ST1000DM003 1TB sATA III 64MB 
+MSI X99A GAMING 7 X99 LGA 2011 (PCX/DZW/GLAN/SATA3/USB3.1/RAID/DDR4/SLI/CROSSFIRE) 
+HyperX 2x8GB DDR4-2133 Non-ECC CL14 Fury HX421C14FB2K2/16 
+Kingston SSD M.2 120GB SM2280S3G2/120Gbb
+2 x Monitor DELL Professional P2311Hb 23'' TN LED
+Shipping 45EUR
+
+[ ] Clean the roles on the server
+[ ] Add all Tribe Members to friends on Discord
+[ ] Apply for Discord Partner again
+[ ] Monthly Game Giveaway Reset
+[ ] Set proper Tribe Member Patron roles (Scout, Tenderfoot, Maker)
+[ ] Invite Rich Metson
+[ ] Welcome new members
+[ ] Personalized birthday messages for the Tribe Members
+[ ] Set up Discord games
+[ ] Morning check-in trigger
+[ ] Design Discord Feedback Hour (banner, copy)
+[ ] Finalize the #welcome channel (Update the description so it's similar to Pocketwatch Games Discord (images in post). How do they do that?)
+
+**Cyberhippie.co**
+
+What to add to the website
+
+
+	•	Using Twitch Extensions to bridge the gap of something off-site.
+	•	Top Twitch Clips from your channel
+	•	Bigger video
+	•	Custom theater mode
+	•	Latest YouTube video
+	•	Instagram feed
+	•	Twitter feed
+	•	Email notifications (for news posts/blog posts)
+  
+  Patreon
+Use mobile app. Tell people to use the app to retain more.
+Set up your tiers and benefits to make sure you give a recurring value.
+Thank you messages bonjoro.com
+Patrons name - mention it in the video!
+Credits as a recurring value.
+Posting stuff you don’t usually post anywhere else. Vulnerable.
+Livestreaming.
+Future Expected Value. What’s coming! Tell people what’s coming. Improves customer retention.
+Follow great community managers.
+Try lots and lots of things. Our gut is okay.
